@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Golden Demo\ScanEffect.shader">
+    <Files>
+      <File FileName="Assets\Golden Demo\Golden.shader" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\TestGold.shader" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\Editor\GoldenMaterialEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\Editor\HelperExtensions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\lightTest.shader" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\spec.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\motionBlurEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\motionBlur.shader" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\dymaicUV.shader" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Shaders\nx\nx_unlit.shader" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\rimLight.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\waterWave.cs" Line="21" Column="4" />
+      <File FileName="Assets\Golden Demo\waterWave.shader" Line="1" Column="1" />
+      <File FileName="Assets\Golden Demo\Bloom.shader" Line="47" Column="10" />
+      <File FileName="Assets\Scripts\bloom.cs" Line="20" Column="56" />
+      <File FileName="Assets\Golden Demo\Dispiers.shader" Line="11" Column="24" />
+      <File FileName="Assets\Scripts\ScanEffect.cs" Line="17" Column="36" />
+      <File FileName="Assets\Golden Demo\ScanEffect.shader" Line="6" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

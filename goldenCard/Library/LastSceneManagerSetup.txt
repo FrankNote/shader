@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Golden Demo/TestScene.unity
+  isLoaded: 1
+  isActive: 1
